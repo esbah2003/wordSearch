@@ -8,7 +8,6 @@ import static java.lang.Math.*;  // for math constants and functions
 /** This class searches the word in the puzzle given in the assignment
  *
  * @author Esbah Majoka
- * Student Number: 7357981
  * @version 3.0 (January 25th)                                                        */
 
 /** This constructor ...                                                     */
